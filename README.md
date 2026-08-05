@@ -33,54 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [Local Lead Generation](#local-lead-generation)
-- [Local SEO](#local-seo)
-- [CRM Enrichment](#crm-enrichment)
-- [AI Applications](#ai-applications)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/outscraper-google-maps-scraper?style=social)](https://github.com/data-scrape/outscraper-google-maps-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/outscraper-google-maps-scraper?style=social)](https://github.com/data-scrape/outscraper-google-maps-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/outscraper-google-maps-scraper)](https://github.com/data-scrape/outscraper-google-maps-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/outscraper-google-maps-scraper)](https://github.com/data-scrape/outscraper-google-maps-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Outscraper Google Maps scraper alternative - free Python tool
-
-
-<!-- SEO keywords: outscraper google maps scraper, Outscraper Google Maps Scraper, outscraper google maps scraper python, outscraper google maps scraper github, best out google maps scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > Looking for an alternative to **Outscraper Google Maps Scraper**?
 
 This repository compares Outscraper with modern Google Maps scraping platforms and explains how to choose the right solution for your project.
